@@ -22,8 +22,8 @@ theme:
         name: "Switch to light mode"
   language: pt
 
-repo_name: "FreireRuan/documentacao-tim"
-repo_url: "https://github.com/FreireRuan/documentacao-tim"
+repo_name: "FreireRuan/project-documentacao-tim"
+repo_url: "https://github.com/FreireRuan/project-documentacao-tim"
 
 markdown_extensions:
   - tables
